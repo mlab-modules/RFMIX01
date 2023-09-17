@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/RFMIX01
-summary: null
+summary: Low power RF mixer with differential input and output.
